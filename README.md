@@ -5,7 +5,7 @@
 <li>🌱 Currently learning Typescript and Redux</li>
 <li>🤝 Open to new projects</li>
 <li>🎹 Playing piano while not coding</li>
-<li>📫 Mail me to: sensi.julia@gmail.com</li>
+<li>📫 Mail me at: sensi.julia@gmail.com</li>
 </ul>
 <p align="left">My tech stack:</p>
 <p>
