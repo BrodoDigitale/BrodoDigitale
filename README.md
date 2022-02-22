@@ -1,5 +1,4 @@
-<p>Hello everyone
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>My name is Yulia, I'm a web developer form Russia 🇷🇺 living in italy 🇮🇹 </p>
+<p>Hello everyone👋  My name is Yulia, I'm a web developer form Russia 🇷🇺 living in italy 🇮🇹 </p>
 <ul>
 <li>💡 Practicum by Yandex bootcamp graduate</li>
 <li>🌱 Currently learning Typescript and Redux</li>
