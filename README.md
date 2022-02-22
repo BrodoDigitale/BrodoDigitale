@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </p>
 
-[![codewars](https://www.codewars.com/users/BrodoDigitale/badges/small)](https://www.codewars.com/users/BrodoDigitale) 
+[![codewars](https://www.codewars.com/users/BrodoDigitale/badges/large)](https://www.codewars.com/users/BrodoDigitale) 
 
 <div>
 <p align="left">Connect with me:</p>
