@@ -18,8 +18,6 @@
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrodoDigitale&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrodoDigitale&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrodoDigitale&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrodoDigitale&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrodoDigitale&theme=github)
 
