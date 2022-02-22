@@ -1,9 +1,10 @@
 <p>Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>I'm Julia and I'am a web developer</p>
 <p align="left">Connect with me:</p>
-<a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />
-<a href=" https://twitter.com/brodo_digitale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" />
-<a href=" https://twitter.com/brodo_digitale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" />
+
+<a href=”https://www.linkedin.com/in/yulia-sensi/"><img align=”left” src=”https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=" https://twitter.com/brodo_digitale" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/twitter.png" alt="" height="30" width="40" />
+<a href="https://t.me/julia_sensi" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/telegram.png" alt="" height="30" width="40" />
 
 <!--
 **BrodoDigitale/BrodoDigitale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
