@@ -1,4 +1,5 @@
-<p>Hello everyone👋  My name is Yulia, I'm a web developer form Russia 🇷🇺 currently living in italy 🇮🇹 </p>
+<h2>Hello everyone👋 </h2> 
+<h3>My name is Yulia, I'm a web developer form Russia 🇷🇺 currently living in italy 🇮🇹 </h3>
 <ul>
 <li>💡 Practicum by Yandex bootcamp graduate</li>
 <li>🌱 Currently learning Typescript and Redux</li>
