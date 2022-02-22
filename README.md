@@ -1,10 +1,10 @@
-<h3>Hi there, I'm Julia 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>and I'am a web developer</h3>
+<h3>Hi there
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>I'm Julia and I'am a web developer</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />https://www.linkedin.com/in/yulia-sensi/</a>
+<a href="your link" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />https://www.linkedin.com/in/yulia-sensi/</a>
 </p>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" />
+<a href="your link" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" />
   https://twitter.com/brodo_digitale
 </a>
 
