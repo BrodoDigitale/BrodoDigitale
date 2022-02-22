@@ -16,7 +16,9 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </p>
-<a href="https://www.codewars.com/users/BrodoDigitale" target="blank"><img src="https://www.codewars.com/users/username/badges/small/></a>
+
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/BrodoDigitale) 
+
 <div>
 <p align="left">Connect with me:</p>
 <a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21"/></a>
