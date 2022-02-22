@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>I'm Julia and I'am a web developer</p>
 <p align="left">Connect with me:</p>
 
-<a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center style="float:left; padding-right:10px"" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21" /></a>
+<a href="https://www.linkedin.com/in/yulia-sensi/" target="blank" style="float:left; padding-right:10px"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21" /></a>
 <a href="https://twitter.com/brodo_digitale" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/twitter.png" alt="" width="21" /></a>
 <a href="https://t.me/julia_sensi" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/telegram.png" alt="" width="21" /></a>
 
