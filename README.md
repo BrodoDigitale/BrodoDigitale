@@ -17,7 +17,11 @@
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrodoDigitale&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrodoDigitale&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrodoDigitale&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrodoDigitale&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrodoDigitale&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrodoDigitale&theme=github_dark)
 
 [![codewars](https://www.codewars.com/users/BrodoDigitale/badges/small)](https://www.codewars.com/users/BrodoDigitale) 
 <div>
