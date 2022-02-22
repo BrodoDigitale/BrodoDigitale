@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </p>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrodoDigitale&theme=monokai)
 
 [![codewars](https://www.codewars.com/users/BrodoDigitale/badges/small)](https://www.codewars.com/users/BrodoDigitale) 
