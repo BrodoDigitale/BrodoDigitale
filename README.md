@@ -1,8 +1,8 @@
 <h2>Hello everyone👋 </h2> 
-<h3>My name is Yulia, I'm a web developer form Russia 🇷🇺 currently living in italy 🇮🇹 </h3>
+<h3>My name is Yulia and I'm a web developer</h3>
 <ul>
 <li>💡 Practicum by Yandex bootcamp graduate</li>
-<li>🌱 Currently learning Typescript and Redux</li>
+<li>🌱 Currently taking Harvard CS50 course</li>
 <li>🤝 Open to new projects</li>
 <li>🎹 Playing piano while not coding</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
