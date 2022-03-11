@@ -3,7 +3,7 @@
 <ul>
 <li>💡 Practicum by Yandex bootcamp graduate</li>
 <li>🌱 Currently taking Harvard CS50 course</li>
-<li>MERN stack</li>
+<li>🔌 MERN stack</li>
 <li>🤝 Open to new projects</li>
 <li>🎹 Playing piano while not coding</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
