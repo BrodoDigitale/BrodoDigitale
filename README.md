@@ -6,17 +6,16 @@
 <a href="https://twitter.com/brodo_digitale" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/twitter.png" alt="" width="21" /></a>
 &emsp;
 <a href="https://t.me/julia_sensi" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/telegram.png" alt="" width="21" /></a>
+&emsp;
 </div>
-<div>
 <ul>
 <li>💡 Practicum by Yandex bootcamp graduate</li>
-<li>🌱 Currently taking Harvard CS50 course</li>
+<li>🌱 Currently learning computer science with Harvard CS50x course</li>
 <li>🔌 MERN stack</li>
 <li>🤝 Open to new projects</li>
 <li>🎹 Playing piano while not coding</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
-</div>
 <p align="left">My tech stack:</p>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
