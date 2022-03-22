@@ -1,13 +1,12 @@
 <h2>Hello everyone👋 </h2> 
 <h3>My name is Yulia and I'm a web developer</h3>
-<div>
+<p>
 <a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21"/></a>
 &emsp;
 <a href="https://twitter.com/brodo_digitale" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/twitter.png" alt="" width="21" /></a>
 &emsp;
 <a href="https://t.me/julia_sensi" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/telegram.png" alt="" width="21" /></a>
-&emsp;
-</div>
+</p>
 <ul>
 <li>💡 Practicum by Yandex bootcamp graduate</li>
 <li>🌱 Currently learning computer science with Harvard CS50x course</li>
