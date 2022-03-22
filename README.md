@@ -1,5 +1,5 @@
 <h2>Hello everyone👋 </h2> 
-<h3>My name is Yulia and I'm a web developer
+<h3>My name is Yulia and I'm a web developer</h3>
 <div>
 <a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21"/></a>
 &emsp;
@@ -7,7 +7,7 @@
 &emsp;
 <a href="https://t.me/julia_sensi" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/telegram.png" alt="" width="21" /></a>
 </div>
-</h3>
+<div>
 <ul>
 <li>💡 Practicum by Yandex bootcamp graduate</li>
 <li>🌱 Currently taking Harvard CS50 course</li>
@@ -16,6 +16,7 @@
 <li>🎹 Playing piano while not coding</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
+</div>
 <p align="left">My tech stack:</p>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
