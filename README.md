@@ -9,7 +9,7 @@
 </p>
 <ul>
 <li>💡 Practicum by Yandex bootcamp graduate</li>
-<li>🌱 Currently learning computer science with Harvard CS50x course</li>
+<li>🌱 Currently working as a freelance web developer</li>
 <li>🔌 MERN stack</li>
 <li>🤝 Open to new projects</li>
 <li>🎹 Playing piano while not coding</li>
