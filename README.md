@@ -8,11 +8,9 @@
 <a href="https://t.me/julia_sensi" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/telegram.png" alt="" width="21" /></a>
 </p>
 <ul>
-<li>💡 Practicum by Yandex bootcamp graduate</li>
-<li>🌱 Currently working as a freelance web developer</li>
+<li>💡 Frontend developer passionate about good UI</li>
 <li>🔌 MERN stack</li>
-<li>🤝 Open to new projects</li>
-<li>🎹 Playing piano while not coding</li>
+<li>🎹 Music fan and cofee junkie</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
 <p align="left">My tech stack:</p>
