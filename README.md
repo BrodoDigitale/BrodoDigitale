@@ -1,4 +1,4 @@
-<h2>Hello everyone👋 </h2> 
+<h2>Ciao👋 </h2> 
 <h3>My name is Yulia and I'm a web developer</h3>
 <p>
 <a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21"/></a>
