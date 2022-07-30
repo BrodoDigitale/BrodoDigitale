@@ -10,7 +10,7 @@
 <ul>
 <li>💡 Frontend developer passionate about good UI</li>
 <li>🔌 MERN stack</li>
-<li>🎹Music and cofee junkie</li>
+<li>🎹 Music and cofee junkie</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
 <p align="left">My tech stack:</p>
