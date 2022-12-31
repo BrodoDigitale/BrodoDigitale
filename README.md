@@ -1,5 +1,5 @@
 <h2>Ciao👋 </h2> 
-<h3>My name is Yulia and I'm a web developer</h3>
+<h3>My name is Yulia and I'm a frontend developer from Italy</h3>
 <p>
 <a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21"/></a>
 &emsp;
