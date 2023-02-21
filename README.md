@@ -1,5 +1,4 @@
 <h2>Ciao👋 </h2> 
-<h3>I'm a front-end developer based in Italy</h3>
 <p>
 <a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21"/></a>
 &emsp;
