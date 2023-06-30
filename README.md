@@ -8,7 +8,7 @@
 </p>
 <ul>
 <li>💡 Frontend developer passionate about good UI</li>
-<li>🔌 MERN stack</li>
+<li>🔌 JS && React && Typescript</li>
 <li>🎹 Music addict</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
