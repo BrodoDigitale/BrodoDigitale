@@ -7,7 +7,7 @@
 <a href="https://t.me/julia_sensi" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/telegram.png" alt="" width="21" /></a>
 </p>
 <ul>
-<li>👾 Software developer focused on frontend and passionate about good UI</li>
+<li>👾 Software developer focused on frontend</li>
 <li>🔌 JS && React && Typescript && NodeJS</li>
 <li>🎹 Music addict</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
