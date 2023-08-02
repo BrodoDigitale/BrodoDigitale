@@ -26,8 +26,6 @@
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrodoDigitale&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrodoDigitale&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrodoDigitale&theme=github)
 ![](https://leetcard.jacoblin.cool/brodo_digitale?theme=unicorn)
 
 [![codewars](https://www.codewars.com/users/BrodoDigitale/badges/small)](https://www.codewars.com/users/BrodoDigitale) 
