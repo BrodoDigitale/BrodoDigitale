@@ -24,12 +24,13 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </p>
-[![codewars](https://www.codewars.com/users/BrodoDigitale/badges/small)](https://www.codewars.com/users/BrodoDigitale) 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrodoDigitale&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrodoDigitale&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrodoDigitale&theme=github)
-
 ![](https://leetcard.jacoblin.cool/brodo_digitale?theme=unicorn)
+
+[![codewars](https://www.codewars.com/users/BrodoDigitale/badges/small)](https://www.codewars.com/users/BrodoDigitale) 
 <!--
 **BrodoDigitale/BrodoDigitale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
