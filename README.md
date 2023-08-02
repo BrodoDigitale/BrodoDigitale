@@ -30,7 +30,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrodoDigitale&theme=github)
 
 [![codewars](https://www.codewars.com/users/BrodoDigitale/badges/small)](https://www.codewars.com/users/BrodoDigitale) 
-![Leetcode Stats](https://leetcard.jacoblin.cool/brodo_digitale)
+![][Leetcode Stats](https://leetcard.jacoblin.cool/brodo_digitale?theme=unicorn)
 <!--
 **BrodoDigitale/BrodoDigitale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
