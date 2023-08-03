@@ -1,5 +1,5 @@
-<h1>Ciao! My name is Iulia </h1> 
-<h2>I am a software developer from Italy 👩🏽‍💻</h2>
+<h2>Ciao! My name is Iulia </h2> 
+<h3>I am a software developer from Italy 👩🏽‍💻</h3>
 <ul>
 <li>❤️ Frontend</li>
 <li>🔌 JS && React && Typescript</li>
@@ -14,7 +14,7 @@
 &emsp;
 <a href="https://t.me/julia_sensi" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/telegram.png" alt="" width="21" /></a>
 </p>
-<h3 align="left">My technologies:</h3>
+<h3 align="left">My technologies</h3>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
