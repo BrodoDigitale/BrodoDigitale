@@ -5,7 +5,8 @@
 <li>🔌 JS && React && Typescript</li>
 <li>🎹 Music addict</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
-<h2>Contact me</h2>
+</ul>
+<h3>Contact me</h3>
 <p>
 <a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21"/></a>
 &emsp;
@@ -13,8 +14,7 @@
 &emsp;
 <a href="https://t.me/julia_sensi" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/telegram.png" alt="" width="21" /></a>
 </p>
-</ul>
-<p align="left">My technologies:</p>
+<h3 align="left">My technologies:</h3>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
