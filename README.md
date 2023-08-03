@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrodoDigitale&theme=github)
 ![](https://leetcard.jacoblin.cool/brodo_digitale?theme=unicorn)
 
 [![codewars](https://www.codewars.com/users/BrodoDigitale/badges/small)](https://www.codewars.com/users/BrodoDigitale) 
