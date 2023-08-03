@@ -1,6 +1,4 @@
-<h2>Ciao! 
-
-  👋 </h2> 
+<h2>Ciao!</h2> 
 <p>
 <a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21"/></a>
 &emsp;
@@ -10,7 +8,7 @@
 </p>
 <ul>
 <li>👾 Software developer focused on frontend</li>
-<li>🔌 JS && React && Typescript && NodeJS</li>
+<li>🔌 JS && React && Typescript</li>
 <li>🎹 Music addict</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
@@ -20,6 +18,7 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrodoDigitale&theme=github)
