@@ -1,4 +1,11 @@
-<h2>Ciao!</h2> 
+<h1>Ciao! My name is Iulia </h1> 
+<h2>I am a software developer from Italy 👩🏽‍💻</h2>
+<ul>
+<li>❤️ Frontend</li>
+<li>🔌 JS && React && Typescript</li>
+<li>🎹 Music addict</li>
+<li>📫 Mail me at sensi.julia@gmail.com</li>
+<h2>Contact me</h2>
 <p>
 <a href="https://www.linkedin.com/in/yulia-sensi/" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/linkedin.png" alt="" width="21"/></a>
 &emsp;
@@ -6,12 +13,6 @@
 &emsp;
 <a href="https://t.me/julia_sensi" target="blank"><img align="center" src="https://github.com/BrodoDigitale/BrodoDigitale/blob/main/images/telegram.png" alt="" width="21" /></a>
 </p>
-<ul>
-<li>👾 Software developer from Italy</li>
-<li>❤️ Frontend</li>
-<li>🔌 JS && React && Typescript</li>
-<li>🎹 Music addict</li>
-<li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
 <p align="left">My technologies:</p>
 <p>
