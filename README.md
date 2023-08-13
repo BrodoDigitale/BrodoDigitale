@@ -1,4 +1,4 @@
-<h2>Ciao! My name is Iulia </h2> 
+<h2>Ciao! My name is Iuliia </h2> 
 <h3>I am a software developer from Italy 👩🏽‍💻</h3>
 <ul>
 <li>❤️  Frontend</li>
