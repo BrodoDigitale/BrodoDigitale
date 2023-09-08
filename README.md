@@ -1,7 +1,7 @@
 <h2>Ciao! My name is Iuliia </h2> 
 <h3>I am a software developer from Italy 👩🏽‍💻</h3>
 <ul>
-<li> Web developer focused on Frontend</li>
+<li>🔍 Dev focused on Frontend</li>
 <li>🔌  JS && React && Typescript</li>
 <li>🎹 Music addict</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
