@@ -1,5 +1,5 @@
 <h2>Ciao! My name is Iuliia </h2> 
-<h3>I am a software developer from Italy 👩🏽‍💻</h3>
+<h3>I am a software developer from Italy </h3>
 <ul>
 <li>🔍 Dev focused on Frontend</li>
 <li>🔌  JS && React && Typescript</li>
