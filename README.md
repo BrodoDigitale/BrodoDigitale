@@ -2,7 +2,7 @@
 <h3>I am a software developer from Italy </h3>
 <ul>
 <li>🎹 Focused on Frontend</li>
-<li>🔌 Main stack: React && Typescript</li>
+<li>🔌 React && Typescript</li>
 <li>🔍 Currently learning DSA</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
