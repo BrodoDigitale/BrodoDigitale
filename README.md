@@ -1,8 +1,10 @@
 <h2>Ciao! My name is Iuliia </h2> 
-<h3>I am a software developer from Italy </h3>
+<h3>I am a software developer from Italy 🍝</h3>
 <ul>
-<li>🔌 React && Typescript</li>
-<li>🔍 Currently into mobile development</li>
+<li>🔌 React </li>
+<li>🛠️ Typescript</li>
+<li>📲 React Native</li>
+<li>🦫 Capybara ambassador</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
 <h3>Contact me</h3>
