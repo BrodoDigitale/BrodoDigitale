@@ -1,9 +1,8 @@
 <h2>Ciao! My name is Iuliia </h2> 
 <h3>I am a software developer from Italy </h3>
 <ul>
-<li>🎹 Focused on Frontend</li>
 <li>🔌 React && Typescript</li>
-<li>🔍 Currently learning DSA</li>
+<li>🔍 Currently into mobile development</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
 <h3>Contact me</h3>
