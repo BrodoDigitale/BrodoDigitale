@@ -1,9 +1,8 @@
 <h2>Ciao! My name is Iuliia </h2> 
 <ul>
 <li>🔌 React </li>
-<li>🛠️ Typescript</li>
 <li>📲 React Native</li>
-<li>🦫 Capybara ambassador</li>
+<li>🛠️ Typescript</li>
 <li>📫 Mail me at sensi.julia@gmail.com</li>
 </ul>
 <h3>Contact me</h3>
